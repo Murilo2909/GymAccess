@@ -1,0 +1,13 @@
+C:\Projetos\GymAccess\DB\bin\Debug\net10.0\DB.deps.json
+C:\Projetos\GymAccess\DB\bin\Debug\net10.0\DB.dll
+C:\Projetos\GymAccess\DB\bin\Debug\net10.0\DB.pdb
+C:\Projetos\GymAccess\DB\obj\Debug\net10.0\DB.csproj.AssemblyReference.cache
+C:\Projetos\GymAccess\DB\obj\Debug\net10.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\GymAccess\DB\obj\Debug\net10.0\DB.AssemblyInfoInputs.cache
+C:\Projetos\GymAccess\DB\obj\Debug\net10.0\DB.AssemblyInfo.cs
+C:\Projetos\GymAccess\DB\obj\Debug\net10.0\DB.csproj.CoreCompileInputs.cache
+C:\Projetos\GymAccess\DB\obj\Debug\net10.0\DB.sourcelink.json
+C:\Projetos\GymAccess\DB\obj\Debug\net10.0\DB.dll
+C:\Projetos\GymAccess\DB\obj\Debug\net10.0\refint\DB.dll
+C:\Projetos\GymAccess\DB\obj\Debug\net10.0\DB.pdb
+C:\Projetos\GymAccess\DB\obj\Debug\net10.0\ref\DB.dll
