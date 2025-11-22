@@ -19,7 +19,7 @@ namespace GymAccess.API.Controllers
             _jwtService = jwtService;
         }
 
-        [HttpPost("Create")]
+        [HttpPost("Register")]
         public async Task<IActionResult> Create([FromBody] InCreateEmployee req)
         {
             try
@@ -42,7 +42,7 @@ namespace GymAccess.API.Controllers
             }
         }
 
-        [HttpPost("login")]
+        [HttpPost("Login")]
         public async Task<IActionResult> Login([FromBody] InLogin dados)
         {
             var user = await _repo.Login(dados.Email, dados.Password);

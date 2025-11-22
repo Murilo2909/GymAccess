@@ -10,7 +10,8 @@ var conn = builder.Configuration.GetConnectionString("DefaultConnection") ?? thr
 // DbConnectionFactory
 builder.Services.AddSingleton(new DbConnectionFactory(conn));
 
-// Repository (sem interface mesmo)
+// Repositories
+builder.Services.AddScoped<MemberRepository>();
 builder.Services.AddScoped<EmployeeRepository>();
 
 // JWT Service
