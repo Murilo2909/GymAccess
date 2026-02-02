@@ -6,10 +6,5 @@ namespace GymAccess.Controllers
     [Route("api/[controller]")]
     public class GymController : ControllerBase
     {
-        [HttpGet("example")]
-        public IActionResult Example()
-        {
-            return Ok("GymController funcionando!");
-        }
     }
 }

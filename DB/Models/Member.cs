@@ -13,7 +13,8 @@ namespace DB.Models
         public string Cpf { get; set; } = "";
         public string Phone { get; set; } = "";
         public string Status { get; set; } = "";
-        public float[] Facial { get; set; } = new float[128];
+        public float[]? FacialFloat { get; set; } = new float[128];
+        public string? Facial { get; set; } = "";
         public DateTime PaymentDate { get; set; }
     }
 }

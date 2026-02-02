@@ -1,9 +1,0 @@
-C:\Projetos\GymAccess\API\obj\Debug\net10.0\GymAccess.csproj.AssemblyReference.cache
-C:\Projetos\GymAccess\API\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Projetos\GymAccess\API\obj\Debug\net10.0\GymAccess.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projetos\GymAccess\API\obj\Debug\net10.0\GymAccess.AssemblyInfoInputs.cache
-C:\Projetos\GymAccess\API\obj\Debug\net10.0\GymAccess.AssemblyInfo.cs
-C:\Projetos\GymAccess\API\obj\Debug\net10.0\GymAccess.csproj.CoreCompileInputs.cache
-C:\Projetos\GymAccess\API\obj\Debug\net10.0\GymAccess.MvcApplicationPartsAssemblyInfo.cs
-C:\Projetos\GymAccess\API\obj\Debug\net10.0\GymAccess.MvcApplicationPartsAssemblyInfo.cache
-C:\Projetos\GymAccess\API\obj\Debug\net10.0\GymAccess.sourcelink.json

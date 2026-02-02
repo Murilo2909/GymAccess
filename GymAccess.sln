@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{D82C56D6-B2C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymAccess", "API\GymAccess.csproj", "{490C7F20-BD2A-47FD-9C93-A52FA58E220E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,18 @@ Global
 		{490C7F20-BD2A-47FD-9C93-A52FA58E220E}.Release|x64.Build.0 = Release|Any CPU
 		{490C7F20-BD2A-47FD-9C93-A52FA58E220E}.Release|x86.ActiveCfg = Release|Any CPU
 		{490C7F20-BD2A-47FD-9C93-A52FA58E220E}.Release|x86.Build.0 = Release|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Debug|x64.Build.0 = Debug|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Debug|x86.Build.0 = Debug|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Release|x64.ActiveCfg = Release|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Release|x64.Build.0 = Release|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Release|x86.ActiveCfg = Release|Any CPU
+		{7CE34BAB-C9AA-4ADE-8358-55B7B9708F14}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

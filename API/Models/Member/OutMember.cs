@@ -1,7 +1,8 @@
 namespace GymAccess.API.Models.Member
 {
-    public class InRegister
-    {
+    public class OutMember
+     {
+        public int Id { get; set; }
         public int GymId { get; set; }
         public string Name { get; set; } = "";
         public string Email { get; set; } = "";
@@ -9,8 +10,6 @@ namespace GymAccess.API.Models.Member
         public string Cpf { get; set; } = "";
         public string Phone { get; set; } = "";
         public string Status { get; set; } = "";
-
-        // Envio da imagem
-        public string? Photo { get; set; }
+        public string Photo { get; set; } = "";
     }
 }
